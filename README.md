@@ -54,7 +54,7 @@ Name of the program file should exactly match the class name.
 Example: Assume `'MyFirstJavaProgram'` is the class name. Then the file should be saved as `'MyFirstJavaProgram.java'`
 
 ##### public static void main(String args[]) 
-Java program processing starts from the main() method which is a mandatary part of every Java program.
+Java program processing starts from the main() method which is a mandatory part of every Java program.
 
 
 
@@ -110,11 +110,11 @@ protected Object clone() throws CloneNotSupportedException
     
 The clone() method is defined in the Object class.
 #### *Why do we need this clone() method??*
-This clone() method saves the extra prosessing task for creating the exact copy of an object. If we perform it by using the new keyword, it will take a lot of time that is why we use object cloning. 
+This clone() method saves the extra processing task for creating the exact copy of an object. If we perform it by using the new keyword, it will take a lot of time that is why we use object cloning. 
 Example of clone() method is [here](https://github.com/Starcode71Ooze/JAVA-JET/blob/master/Class%20and%20Objects.java).
   
 ### Java.lang.StringBuffer.appendCodePoint() Method *{RARELY USED}*
-This method is used to append the string representattion of the codepoint argument. The syntax followed is:
+This method is used to append the string representation of the codepoint argument. The syntax followed is:
 public StringBuffer appendCodePoint(int cp).
 
 ###### Parameter:
@@ -143,7 +143,7 @@ Syntax:
       `arrayname = new dataType[]`
 
 
-- Initialize the Array 
+- Initializing the Array 
 
 Syntax:
 Eg:     `intArray[0]=n; // Assigns an integer value (n=any number) to the first element 0 of the array`
